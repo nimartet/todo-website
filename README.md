@@ -1,4 +1,9 @@
 # This is a sample website content
-- index.html
-- home.html
-- about.html
+-README.md  
+-about.html  
+-contact.html  
+-css  (dir)
+-home.html  
+-index.html  
+-js  (dir)
+-map.html
